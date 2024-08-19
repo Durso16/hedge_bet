@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Z4Uqs658qnCLkJ49-42uTAjqZZWqtp21
 """
 
-!pip install ipywidgets matplotlib numpy streamlit
+pip install ipywidgets matplotlib numpy streamlit
 
 import streamlit as st
 import numpy as np
